@@ -1,9 +1,17 @@
 # InnerSource Commons Foundation Public Roadmap
 
+Our roadmap outlines how we'll empower collaboration through patterns, learning, and community growth. RISE with us to shape the future of InnerSource. 🌟
+
+
 ## Our Mission
-We empower developers and organizations to apply open collaboration principles in their daily work. As the neutral hub and central collaboration space for InnerSource knowledge, we maintain our independence and operate on a lean budget while building a strong, inclusive community and industry partnerships.
+We empower developers and organisations to apply open collaboration principles in their daily work.
+
+We are the neutral hub and central collaboration space for InnerSource knowledge. As such, we maintain our independence and operate on a lean budget.
+
+We build a strong, inclusive community and industry partnerships. Together, we apply open collaboration principles to drive the conversation about InnerSource and steward the InnerSource body of knowledge.
 
 ## RISE - Our Strategic Goals for 2025
+
 Our roadmap is aligned with our RISE strategy:
 
 ### R - Reach New Industries and Regions
